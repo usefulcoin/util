@@ -1,0 +1,12 @@
+{
+  "name": "util",
+  "version": "1.0.0",
+  "description": "HTML5UP util.js",
+  "keywords": [ "util", "html5" ],
+  "homepage": "http://github.com/kongosigns/util",
+  "repository": { "type": "git",
+                  "url": "https://github.com/kongosigns/util"
+                },
+  "license": "MIT",
+  "main": "./util.js"
+}
